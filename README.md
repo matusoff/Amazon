@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matusoff
-- 👀 I’m interested in ML, protein function analysis through Machine Learning approach
-- 🌱 I’m currently learning python, ML
+- 👀 I’m interested in coding, Data Science, Machine Learning, protein function and dynamics analyses through ML approach 
+- 🌱 I’m currently learning coding in python, ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
