@@ -14,8 +14,8 @@ This tool is designed to help users automatically collect and track information 
 
 ## Configuration
 
-- **Notification Settings:** Configure email or SMS notifications by editing the `config.yaml` file with your preferences.
-- **Frequency of Updates:** Adjust how often the tool checks for updates by modifying the `schedule` parameter in the `config.yaml` file.
+- **Notification Settings:** Configure email or SMS notifications.
+- **Frequency of Updates:** Adjust how often the tool checks for updates by modifying the `time.sleep` parameter.
 
 ## License
 
