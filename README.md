@@ -8,14 +8,6 @@ Availability Alerts: Sends notifications when out-of-stock items become availabl
 Review Aggregation: Gathers and summarizes customer reviews for quick assessment.
 Historical Data Analysis: Offers insights into price trends and product popularity over time.
 Customizable Watchlist: Users can tailor their list of products to monitor according to their preferences.
-Installation
-bash
-Copy code
-# Clone the repository
-git clone https://github.com/yourusername/amazon.git
-
-# Navigate to the project directory
-cd amazon
 
 Configuration
 Notification Settings: Configure email or SMS notifications by editing the config.yaml file with your preferences.
